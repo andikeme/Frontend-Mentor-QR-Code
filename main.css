@@ -1,0 +1,38 @@
+body{
+    align-items: center;
+    justify-content: center;
+    background-color: #8CABFF;
+    font-family:'Open Sans', sans-serif;
+    
+
+}
+
+.plane{
+    width: 250px;
+    position:absolute;
+    top:132px;
+    left:40%;
+    padding: 15px 10px 20px 10px;
+    border-width: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.img{
+    margin-left: 5px;
+    position: relative;
+}
+
+.note1{
+    color: hsl(218, 48%, 22%);
+    font-weight: 700;
+    text-align: center;
+    margin-top:0;
+}
+
+.note2 {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+}
